@@ -9,9 +9,8 @@ Shifter knob backlight PCB for 2016-2022 Toyota Prius XW50/XW51.
 |<img width="800" alt="FRONT OF BOARD" src="/ASSETS/FRONT.png">  Front of PCB |  <img width="800" alt="BACK OF BOARD" src="/ASSETS/BACK.png"> Back of PCB |
 
 BOM
-| | | | | | | | |
+| No. | Qty. | Comment | Designator (s) | Footprint | Value | Manufacturer Part No. | Manufacturer |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| No. | Quantity | Comment            | Designator   | Footprint                        | Value	| Manufacturer Part	 | Manufacturer |
 |1    |      	1  | 10uF | C1	         | C0805                            | 10uF  | FCC0805X106K100FT	 | FOJAN (it doesnt matter)|
 |2    |	        1| HC-1.25-2PWT       | CN1    	     | CONN-SMD_2P-P1.25-HC-1.25-2PWT   | -     | HC-1.25-2PWT       | - |
 |3    |	        1| SS34               | D1           | SMA_L4.3-W2.6-LS5.2-RD           | -     | SS34               | MDD |
